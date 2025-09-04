@@ -1,5 +1,5 @@
 #include <stdio.h>
 void main() {
-     char programming = 'C';
-     printf("%c", programming);
+     char letter = 'C';
+     printf("%c", letter);
  }
